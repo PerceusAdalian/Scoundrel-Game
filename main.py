@@ -15,7 +15,6 @@ def main():
     
     if choice == "yes" or choice == "y":
         print("Great! Let's get started.")
-        # Here you can add more game logic, challenges, and choices for the player.
     else:
         print("Maybe next time! Goodbye.")
 
